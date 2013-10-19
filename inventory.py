@@ -1,1 +1,1 @@
-print "Hello Whirl!"
+print "Hello World!"
